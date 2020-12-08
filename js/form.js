@@ -93,7 +93,7 @@ class Form{
 
             this.title06 = createElement('h4');
             this.title06.html("No point for catching Banana");
-            this.title06.position(300, 540);
+            this.title06.position(340, 540);
             this.title06.style('font-size', '50px');
             this.title06.style('color', 'rgb(3, 252, 102)');
 
