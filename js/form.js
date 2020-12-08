@@ -86,7 +86,7 @@ class Form{
             this.title04.style('color', 'rgb(3, 252, 102)');
 
             this.title05 = createElement('h4');
-            this.title05.html("Catching Melon will reduce 2 point");
+            this.title05.html("Catching Orange will reduce 2 point");
             this.title05.position(300, 440);
             this.title05.style('font-size', '50px');
             this.title05.style('color', 'rgb(3, 252, 102)');
